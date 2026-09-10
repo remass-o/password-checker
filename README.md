@@ -79,21 +79,9 @@ The tool handles common errors gracefully:
 - Empty password files
 - API errors
 
-## Future Enhancements
-
-- Add batch mode for checking against multiple files
-- Add export results to CSV/JSON
-- Add configuration file support
-- Add more comprehensive unit tests
-- Add GitHub Actions CI/CD pipeline
-
 ## Security Disclaimer
 
 This tool uses the public Pwned Passwords API. Never use this tool to check passwords in production systems. Use it only for personal password security audits.
-
-## Author
-
-remass-o
 
 ## References
 
